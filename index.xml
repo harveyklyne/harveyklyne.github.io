@@ -5,7 +5,7 @@
     <link>https://harveyklyne.github.io/</link>
       <atom:link href="https://harveyklyne.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Harvey Klyne</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 18 Dec 2021 18:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 17 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://harveyklyne.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Harvey Klyne</title>
@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>Conditional independence testing for categorical data</title>
-      <link>https://harveyklyne.github.io/talk/conditional-independence-testing-for-categorical-data/</link>
-      <pubDate>Sat, 18 Dec 2021 18:00:00 +0000</pubDate>
-      <guid>https://harveyklyne.github.io/talk/conditional-independence-testing-for-categorical-data/</guid>
+      <title>Average partial effect estimation using double machine learning</title>
+      <link>https://harveyklyne.github.io/publication/average-partial-effect-estimation-using-double-machine-learning/</link>
+      <pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://harveyklyne.github.io/publication/average-partial-effect-estimation-using-double-machine-learning/</guid>
       <description></description>
     </item>
     
