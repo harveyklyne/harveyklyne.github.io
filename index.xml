@@ -5,12 +5,20 @@
     <link>https://harveyklyne.github.io/</link>
       <atom:link href="https://harveyklyne.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Harvey Klyne</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 17 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 15 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://harveyklyne.github.io/media/icon_hud3bedfb5dae5000a58b1c09c7bc47b11_16684_512x512_fill_lanczos_center_2.png</url>
       <title>Harvey Klyne</title>
       <link>https://harveyklyne.github.io/</link>
     </image>
+    
+    <item>
+      <title>Toward Computationally Efficient Inverse Reinforcement Learning via Reward Shaping</title>
+      <link>https://harveyklyne.github.io/publication/toward-computationally-efficient-inverse-reinforcement-learning/</link>
+      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://harveyklyne.github.io/publication/toward-computationally-efficient-inverse-reinforcement-learning/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Average partial effect estimation using double machine learning</title>
